@@ -1,0 +1,5 @@
+STAF_CODIGO_EVENTO;STAF_TIPO_EVENTO;STAF_CODIGO_TCE;STAF_NATUREZA_EVENTO;TCE_TDBG_CODIGO;TCE_TDBG_TIPO;DESCRICAO_ERRO
+"96";"VENCIMENTO";"98";"G";"98";"D";Existe uma inconsistencia entra os campos STAF_NATUREZA_EVENTO e TCE_TDBG_TIPO, favor realizar a correcao.
+"100";"VENCIMENTO";"100";"G";"100";"D";Existe uma inconsistencia entra os campos STAF_NATUREZA_EVENTO e TCE_TDBG_TIPO, favor realizar a correcao.
+"275";"INFORMATIVO_MAIS";"13";"G";"13";"D";Existe uma inconsistencia entra os campos STAF_NATUREZA_EVENTO e TCE_TDBG_TIPO, favor realizar a correcao.
+"276";"INFORMATIVO_MAIS";"13";"G";"13";"D";Existe uma inconsistencia entra os campos STAF_NATUREZA_EVENTO e TCE_TDBG_TIPO, favor realizar a correcao.
